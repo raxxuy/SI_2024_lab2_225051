@@ -48,7 +48,7 @@ public static boolean checkCart(List<Item> allItems, int payment){ // 1
 } // 25
 ```
 
-![img](https://cdn.discordapp.com/attachments/1054498402592890990/1241729547687297094/cfg.drawio2.png?ex=664b4242&is=6649f0c2&hm=d4cca5ba5c5792531bf35c4dbfb301201faedc86d172817513f017fef62ad5b6&)
+![cfg](cfg.png)
 
 # 3. Цикломатска комплексност
 Цикломатска комплекност е 10. Најдена е според формулата V(G) = E - N + 2, каде што E е бројот на ребра и N е бројот на јазли.
